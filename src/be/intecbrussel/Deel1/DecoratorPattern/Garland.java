@@ -1,4 +1,4 @@
-package be.intecbrussel.DecoratorPattern;
+package be.intecbrussel.Deel1.DecoratorPattern;
 
 public class Garland extends TreeDecorator{
     public Garland(ChristmasTree decoratedTree) {

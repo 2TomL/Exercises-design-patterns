@@ -1,4 +1,4 @@
-package be.intecbrussel.SingletonPattern;
+package be.intecbrussel.Deel1.SingletonPattern;
 
 public class ProductApp {
     public static void main(String[] args) {

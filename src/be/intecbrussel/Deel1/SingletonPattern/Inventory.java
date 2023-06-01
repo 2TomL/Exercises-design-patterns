@@ -1,4 +1,4 @@
-package be.intecbrussel.SingletonPattern;
+package be.intecbrussel.Deel1.SingletonPattern;
 
 import java.util.ArrayList;
 import java.util.List;

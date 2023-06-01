@@ -1,4 +1,4 @@
-package be.intecbrussel.FactoryDesignPattern;
+package be.intecbrussel.Deel1.FactoryDesignPattern;
 
 public class ComputerFactory {
     public static Computer createComputer (String computerType, String ram, String cpu, String hdd) {

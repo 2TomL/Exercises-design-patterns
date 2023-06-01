@@ -1,4 +1,4 @@
-package be.intecbrussel.FactoryDesignPattern;
+package be.intecbrussel.Deel1.FactoryDesignPattern;
 
 public class PC extends Computer{
 
@@ -8,6 +8,6 @@ public class PC extends Computer{
 
     @Override
     public String toString() {
-        return "Your be.intecbrussel.FactoryDesignPattern.PC" + super.toString();
+        return "Your be.intecbrussel.Deel1.FactoryDesignPattern.PC" + super.toString();
     }
 }

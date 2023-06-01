@@ -1,4 +1,4 @@
-package be.intecbrussel.FactoryDesignPattern;
+package be.intecbrussel.Deel1.FactoryDesignPattern;
 
 import java.util.Scanner;
 

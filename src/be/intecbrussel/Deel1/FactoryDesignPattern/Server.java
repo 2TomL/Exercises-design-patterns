@@ -1,4 +1,4 @@
-package be.intecbrussel.FactoryDesignPattern;
+package be.intecbrussel.Deel1.FactoryDesignPattern;
 
 public class Server extends Computer{
     public Server(String ram, String cpu, String hdd) {
@@ -7,6 +7,6 @@ public class Server extends Computer{
 
     @Override
     public String toString() {
-        return "Your be.intecbrussel.FactoryDesignPattern.Server" + super.toString();
+        return "Your be.intecbrussel.Deel1.FactoryDesignPattern.Server" + super.toString();
     }
 }

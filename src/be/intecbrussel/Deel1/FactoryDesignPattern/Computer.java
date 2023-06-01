@@ -1,4 +1,4 @@
-package be.intecbrussel.FactoryDesignPattern;
+package be.intecbrussel.Deel1.FactoryDesignPattern;
 
 abstract public class Computer {
     protected String ram;
@@ -25,7 +25,7 @@ abstract public class Computer {
 
     @Override
     public String toString() {
-        return "be.intecbrussel.FactoryDesignPattern.Computer{" +
+        return "be.intecbrussel.Deel1.FactoryDesignPattern.Computer{" +
                 "ram='" + ram + '\'' +
                 ", cpu='" + cpu + '\'' +
                 ", hdd='" + hdd + '\'' +
