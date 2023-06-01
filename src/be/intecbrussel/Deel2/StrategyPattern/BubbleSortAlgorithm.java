@@ -12,5 +12,6 @@ public class BubbleSortAlgorithm implements ArraySortingAlgorithm{
                 }
             }
         }
+        return array;
     }
 }
